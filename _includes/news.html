@@ -4,7 +4,7 @@
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="section-heading">News:</h2>
                   <ul>
-                    {% assign posts=site.posts | where:"lang", page.lang %} 
+                    {% assign posts=site.posts | where:"lang", page.lang %}
                     {% for post in posts limit: 10 %}
                        <a style="color:orange" href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_long_string }}<br />
                     {% endfor %}
@@ -12,13 +12,13 @@
                 <h2 class="section-heading">Timeline:</h2>
                 <p>2018 Pass the SALT has currently reached <span style="color:orange"> <b>this stage</b></span>:</p>
                 <p>
-                        January 8, 2018: launch of the 2018 Pass the SALT<br />
-                        January 23, 2018 : opening of the Call For Papers<br /> 
-                        March 31, 2018 : closing of the Call For Paper<br /> 
-                        April 15, 2018 : notification to the speakers<br /> 
-                        April 30, 2018 : publication of the program<br />
-                        May 16, 2018  : opening of the booking interface<br>(entrance is free but due to the capacity of the room, booking is required).<br /> 
-                        <span style="color:orange"><b>July 2-4, 2018  : the conference :-)</b></span> <br /> 
+                        <span style="color:orange"><b>November, 2018 : announcement of the 2019 edition</b></span><br />
+                        mid January, 2019 : opening of the Call For Papers<br />
+                        March 31, 2019 : closing of the Call For Paper<br />
+                        April 15, 2019 : notification to the speakers<br />
+                        April 30, 2019 : publication of the program<br />
+                        Mid May, 2019  : opening of the booking interface<br>(entrance is free but due to the capacity of the room, booking is required).<br />
+                        July 1-3, 2018  : the conference :-) <br />
 <!--                    <a class="badge-link" href="#"><img src="/img/google-play-badge.svg" alt=""></a>
                     <a class="badge-link" href="#"><img src="/img/app-store-badge.svg" alt=""></a> -->
                 </div>

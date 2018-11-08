@@ -16,13 +16,7 @@
                     <a class="page-scroll" href="/#news">News</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/schedule/">Schedule</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="https://passthesalt.ubicast.tv/channels/#2018">Videos</a>
-                </li>                
-                <li>
-                    <a class="page-scroll" href="/files/talks/">Slides</a>
+                    <a class="page-scroll" href="https://passthesalt.ubicast.tv/channels/#2018">2018 Videos</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="/#sponsors">Sponsors</a>
@@ -38,19 +32,19 @@
                 </li>
 <!--                <li>
                     <a href="/blog/">Blog</a>
-                </li> -->
+                </li>
 
                 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
                 {% for pg in pages %}
                   <li>
-                  {% if pg.lang == page.lang %} 
+                  {% if pg.lang == page.lang %}
                   <a href="{{ pg.url }}" style="color:#F05F40;" >{{ pg.lang }}</a>
                   {% else %}
                   <a href="{{ pg.url }}" >{{ pg.lang }}</a>
                   {% endif  %}
                   </li>
-                {% endfor %}
-                
+                {% endfor %} -->
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->
