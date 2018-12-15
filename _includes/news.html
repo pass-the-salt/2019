@@ -5,15 +5,15 @@
                 <h2 class="section-heading">News:</h2>
                   <ul>
                     {% assign posts=site.posts | where:"lang", page.lang %}
-                    {% for post in posts limit: 10 %}
+                    {% for post in posts reversed limit: 10 %}
                        <a style="color:orange" href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_long_string }}<br />
                     {% endfor %}
                   </ul>
                 <h2 class="section-heading">Timeline:</h2>
                 <p>2018 Pass the SALT has currently reached <span style="color:orange"> <b>this stage</b></span>:</p>
                 <p>
-                        <span style="color:orange"><b>November, 2018 : announcement of the 2019 edition</b></span><br />
-                        mid January, 2019 : opening of the Call For Papers<br />
+                        November, 2018 : announcement of the 2019 edition<br />
+                        <span style="color:orange"><b>December 14, 2018 : opening of the Call For Papers</b></span><br />
                         March 31, 2019 : closing of the Call For Paper<br />
                         April 15, 2019 : notification to the speakers<br />
                         April 30, 2019 : publication of the program<br />
