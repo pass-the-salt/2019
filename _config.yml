@@ -4,7 +4,7 @@ index:
 
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://2019.pass-the-salt.org/ # the base hostname & protocol for your site
+url: https://2019.pass-the-salt.org # the base hostname & protocol for your site
 title:
   - en : "2019 Pass the SALT website"
 #  - fr : "Site web Pass the SALT 2018"

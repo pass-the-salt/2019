@@ -20,6 +20,10 @@ Prefer to use `gem` and beware that older Debian packages might interfer, e.g.:
 jekyll serve --future
 ```
 
+For last generation before commit and push to production, use: `JEKYLL_ENV=production jekyll serve`
+
+That way, you will generate good expand of `site.url` expression to your current production URL (`url` parameter in `_config.yml`). 
+
 # Server setup to update the site automatically
 
 ```
