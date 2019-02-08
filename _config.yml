@@ -5,21 +5,11 @@ index:
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://2019.pass-the-salt.org # the base hostname & protocol for your site
-title:
-  - en : "2019 Pass the SALT website"
-#  - fr : "Site web Pass the SALT 2018"
+title: "2019 Pass the SALT"
+description: "Welcome to the 2019 Pass the SALT edition!"
+title_image: /img/2019card.png
+twitter_username: passthesaltcon
 permalink: /:slug/
-
-#traductions
-translate:
-  en:
-    home:
-      name: "About"
-      url: "/"
-#  fr:
-#    home:
-#      name: "Accueil"
-#      url: "/accueil/"
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
