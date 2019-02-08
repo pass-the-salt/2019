@@ -1,8 +1,9 @@
 ---
-title: "Pass the SALT: the second edition is coming!"
+title: "2nd edition announced!"
 layout: "post"
 permalink: /pass-the-salt-2nd-edition/
-published: true 
+summary: The 2019 edition of PTS will be in July, 1-3 2019 at Polytech high school, Lille, France.
+published: true
 ref: launch
 lang: en
 ---
