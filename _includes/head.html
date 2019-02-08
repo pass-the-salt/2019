@@ -27,18 +27,17 @@
 
     <!-- Open graph -->
     {% if page.title %}
-    <meta name="og:title"   content="{{ site.title }} | {{ page.title }}">
+    <meta property="og:title"   content="{{ site.title }} | {{ page.title }}">
     {% else %}
-    <meta name="og:title"   content="{{ site.title }}">
+    <meta property="og:title"   content="{{ site.title }}">
     {% endif %}
-    <meta name="og:author" content="@{{ site.twitter_username }}">    
+    <meta property="og:author" content="@{{ site.twitter_username }}">
     {% if page.summary %}
-    <meta name="og:description" content="{{ page.summary }}">
+    <meta property="og:description" content="{{ page.summary }}">
     {% else %}
-    <meta name="og:description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}">
     {% endif %}
-    <meta name=""  content="summary">
-    <meta name="og:image" content="{{ site.url }}{{ site.title_image }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.title_image }}">
     <!-- end of Open graph -->
 
     <!-- Bootstrap Core CSS -->
