@@ -1,3 +1,9 @@
 img[alt=speaker] {
     width: 33%;
 }
+table.schedule {
+    border-collapse: collapse;
+}
+table.schedule th, table.schedule td {
+    border: 1px solid black; padding: 5px;
+}
