@@ -21,7 +21,7 @@ lang: en
 | 2 | [Unlocking secrets of the proxmark3 RDV4](/talks/49.html) | Christian Herrmann ( Iceman ) (RRG), Kevin Barker ( 0xFFFF ) (RRG) |
 | 3 | [D4 Project - Design and Implementation of an Open Source Distributed and Collaborative Security Monitoring](/talks/50.html) | Alexandre Dulaunoy (CIRCL), Jean-Louis Huynen (CIRCL), Aurelien Thirion (CIRCL) |
 | 4 | [OSS in the quest for GDPR compliance](/talks/51.html) | Cristina DeLisle (XWiki / Cryptpad) |
-| 5 | [Unlocking secrets of the proxmark3 RDV4](/talks/52.html) | C. Herrmann ( Iceman ), K. Barker ( 0xFFFF ) |
+| 5 | [Unlocking secrets of the proxmark3 RDV4](/talks/52.html) | Christian Herrmann ( Iceman ), Kevin Barker ( 0xFFFF ) |
 | 6 | [VLC and security](/talks/53.html) | Jean-Baptiste Kempf |
 | 7 | [Managing a growing fleet of WiFi routers combining OpenWRT, WireGuard, Salt and Zabbix](/talks/55.html) | Kenan Ibrović |
 | 8 | [PatrOwl - Orchestrating SecOps with an open-source SOAR platform](/talks/56.html) | Nicolas Mattiocco (GreenLock Advisory) |
@@ -38,7 +38,7 @@ lang: en
 | 19 | [cwe_checker: Hunting Binary Code Vulnerabilities Across CPU Architectures](/talks/74.html) | Thomas Barabosch (Fraunhofer FKIE), Nils-Edvin Enkelmann (Fraunhofer FKIE) |
 | 20 | [Time-efficient assessment of open-source projects for Red Teamers](/talks/75.html) | Thomas Chauchefoin (Synacktiv), Julien Szlamowicz (Synacktiv) |
 | 21 | [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html) | Peter Czanik (Balabit) |
-| 22 | [Lookyloo: A complete solution to investigate complex websites - with a decent UI](/talks/78.html) | Quinn Norton (/), Raphaël Vinot (CIRCL) |
+| 22 | [Lookyloo: A complete solution to investigate complex websites - with a decent UI](/talks/78.html) | Quinn Norton, Raphaël Vinot (CIRCL) |
 | 23 | [Be secret like a ninja with HashiCorp Vault](/talks/79.html) | Mehdi Laruelle (D2SI) |
 | 24 | [Configure WebSSO and Access Control with LemonLDAP::NG](/talks/80.html) | Clément Oudot (Worteks) |
 | 25 | [Ayy pepito](/talks/82.html) | Thibault Koechlin (NBS), Kevin Kadosh (NBS), Manuel Sabban (NBS) |
