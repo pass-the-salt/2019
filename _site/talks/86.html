@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>2019 Pass the SALT | Elastic Stack for Security Monitoring in a Nutshell</title>
+
+    <!-- Twitter cards -->
+    <meta name="twitter:site"    content="@passthesaltcon">
+    <meta name="twitter:creator" content="@passthesaltcon">
+    <meta name="twitter:card"    content="summary">
+    <meta name="twitter:title"   content="PTS19 | Elastic Stack for Security Monitoring in a Nutshell">
+    <meta name="twitter:description" content="Elastic Stack is one of the most commonly used open source data analysis and management platform …">
+    <meta name="twitter:image" content="https://2019.pass-the-salt.org/img/2019card.png">
+    <!-- end of Twitter cards -->
+
+    <!-- Open graph -->
+    <meta property="og:title"   content="2019 Pass the SALT | Elastic Stack for Security Monitoring in a Nutshell">
+    <meta property="og:author" content="@passthesaltcon">
+    <meta property="og:description" content="Elastic Stack is one of the most commonly used open source data analysis and management platform …">
+    <meta property="og:image" content="https://2019.pass-the-salt.org">
+    <!-- end of Open graph -->
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="/css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.css">
+    <link rel="stylesheet" href="/vendor/device-mockups/device-mockups.min.css">
+
+    <!-- Custom CSS
+    <link rel="stylesheet" href="css/main.css" type="text/css"> -->
+    <link href="/css/main.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="alternate" type="application/rss+xml" title="Pass the SALT 2019 RSS" href="/feed.xml">
+
+    <style>
+     .en:lang(en), .fr:lang(fr){
+     font-weight: bold;
+     }
+    </style>
+
+</head>
+
+
+<body id="page-top">
+  <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container" style="background-color:#852D91;">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="/#page-top">Home</a>
+
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="page-scroll" href="/#news">News</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="https://cfp.pass-the-salt.org/">CFP</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/#sponsors">Sponsors</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/code-of-conduct/">Code of Conduct</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/#contact">Contact</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/#about">About</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="https://2018.pass-the-salt.org/">Archives (2018)</a>
+                </li>
+                <!--                <li>
+                    <a href="/blog/">Blog</a>
+                </li>
+
+                
+                
+                  <li>
+                  
+                  <a href="/css/main.css" ></a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/sitemap.xml" ></a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/101.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/102.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/45.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/49.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/50.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/51.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/52.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/53.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/55.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/56.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/57.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/58.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/59.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/60.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/62.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/63.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/65.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/66.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/70.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/71.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/74.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/75.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/76.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/78.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/79.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/80.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/82.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/84.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/85.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/86.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/87.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/91.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/95.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/96.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/98.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/99.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/code-of-conduct/" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/schedule/" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                 -->
+
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+  <!--<header id="header" class="intro-header bg-primary text-center" >-->
+
+<section  id="post">
+<div class="container" >
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+<!--                <h2 class="section-heading">Timeline</h2>
+                <hr class="light">
+                <p class="text-faded">
+                <b>What and when ?</b><br><br>-->
+                <p>« <a href="/schedule/">back to schedule</a></p>
+
+<h2 id="elastic-stack-for-security-monitoring-in-a-nutshell">Elastic Stack for Security Monitoring in a Nutshell</h2>
+<hr />
+
+<p>Elastic Stack is one of the most commonly used open source data analysis and management platform today.  It quickly became popular among security professionals too and it is also the building block of many open source and commercial SIEM.  Elastic Stack is designed for speed and ease of use; it indexes data as it is ingested (write once read many or “WORM” storage) and it is extremely scalable and powerful, making ad-hoc queries and real-time visualization very easy.</p>
+
+<p>The components in the Elastic Stack are designed to be used together and releases are synchronized to simplify the installation and upgrade process. The stack consists of:</p>
+<ul>
+  <li>Beats, which is the platform for single-purpose data shippers;</li>
+  <li>Logstash, which is a server-side data processing pipeline that ingests data from multiple sources, transforms it, and then sends it to one or more outputs (“stash”);</li>
+  <li>Elasticsearch, which is a distributed, RESTful search and analytics engine;</li>
+  <li>Kibana, which lets users visualize data with charts, graphs, and dashboards.</li>
+</ul>
+
+<p>During this two-hour workshop, we will see how to use Elastic Stack for security monitoring and cover the following topics:</p>
+<ul>
+  <li>Beats (filebeat, winlogbeat, auditbeat, etc.)</li>
+  <li>Logstash (input, filter, and output plugins)</li>
+  <li>Elasticsearch (cluster, node, index, shard, mapping, search, aggregation, etc.)</li>
+  <li>Kibana (index patterns, searches, visualizations, dashboards, etc.)</li>
+  <li>Elastic Stack Alerting and Security (X-Pack, ElastAlert, Search Guard, ReadonlyREST, etc.)</li>
+</ul>
+
+<p>Technical requirements for the workshop:</p>
+<ul>
+  <li>A laptop with at least 8 GB of RAM and 30-50 GB of free disk space;</li>
+  <li>VMware Workstation, VMware Fusion or VMware Player installed.</li>
+</ul>
+
+<hr />
+<h3 id="speakers">Speaker(s)</h3>
+
+<p><strong>Eva Szilagyi (Managing Partner at Alzette Information Security), David Szili (Managing Partner at Alzette Information Security)</strong></p>
+
+<h3 id="bio">Bio</h3>
+<p>Eva Szilagyi:
+Eva Szilagyi is managing partner and CEO of Alzette Information Security, a consulting company based in Luxembourg.  She has more than eight years of professional experience in penetration testing, security source code review, vulnerability management, digital forensics, IT auditing, telecommunication networks, and security research.<br />
+Eva has master’s degrees in electrical engineering and in networks and telecommunication.  She holds several IT security certifications such as GSEC, GICSP, GMON, GSSP-JAVA, GWAPT, GMOB, CCSK, eWPT, and eJPT.  Eva speaks on a regular basis at international conferences like BruCON, Hack.lu, Nuit du Hack, Hacktivity, Black Alps, BSides Munich, BSidesBUD, Pass the SALT, Security Session and she is a member of the organizer team of BSides Luxembourg.</p>
+
+<p>David Szili:
+David Szili is managing partner and CTO of Alzette Information Security, a consulting company based in Luxembourg.  David is also an instructor at SANS Institute, teaching FOR572: Advanced Network Forensics.  He has more than eight years of professional experience in penetration testing, red teaming, vulnerability assessment, vulnerability management, security monitoring, security architecture design, incident response, digital forensics and software development.
+David has master’s degrees in computer engineering and in networks and telecommunication and a bachelor’s degree in electrical engineering.  He holds several IT security certifications such as GSEC, GCED, GCIA, GCIH, GMON, GCDA, GNFA, GPYC, GMOB, CCSK, OSCP, OSWP, and CEH.  David speaks on a regular basis at international conferences like BruCON, Hack.lu, Nuit du Hack, Hacktivity, x33fcon, Black Alps, BSidesLjubljana, BSides Munich, BSidesBUD, Pass the SALT, Security Session and he is a member of the organizer team of BSides Luxembourg.  He occasionally blogs about information security at jumpespjump.blogspot.com.</p>
+
+<p>« <a href="/schedule/">back to schedule</a></p>
+
+<!--                </p>
+                <a href="#" class="btn btn-default btn-xl">Get Started!</a> -->
+            </div>
+        </div>
+    </div>
+</section>
+
+  <!-- jQuery -->
+<script src="/js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript
+<script src="js/bootstrap.min.js"></script> -->
+
+<!-- Plugin JavaScript -->
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/jquery.fittext.js"></script>
+<script src="/js/wow.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/creative.js"></script>
+
+<!-- jQuery
+<script src="/vendor/jquery/jquery.min.js"></script> -->
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+<!-- Theme JavaScript -->
+<script src="/js/new-age.min.js"></script>
+
+
+
+</body>
+
+</html>

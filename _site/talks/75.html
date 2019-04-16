@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>2019 Pass the SALT | Time-efficient assessment of open-source projects for Red Teamers</title>
+
+    <!-- Twitter cards -->
+    <meta name="twitter:site"    content="@passthesaltcon">
+    <meta name="twitter:creator" content="@passthesaltcon">
+    <meta name="twitter:card"    content="summary">
+    <meta name="twitter:title"   content="PTS19 | Time-efficient assessment of open-source projects for Red Teamers">
+    <meta name="twitter:description" content="It is more and more common to face opensource projects during Red Team engagements. Due to time a…">
+    <meta name="twitter:image" content="https://2019.pass-the-salt.org/img/2019card.png">
+    <!-- end of Twitter cards -->
+
+    <!-- Open graph -->
+    <meta property="og:title"   content="2019 Pass the SALT | Time-efficient assessment of open-source projects for Red Teamers">
+    <meta property="og:author" content="@passthesaltcon">
+    <meta property="og:description" content="It is more and more common to face opensource projects during Red Team engagements. Due to time a…">
+    <meta property="og:image" content="https://2019.pass-the-salt.org">
+    <!-- end of Open graph -->
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="/css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.css">
+    <link rel="stylesheet" href="/vendor/device-mockups/device-mockups.min.css">
+
+    <!-- Custom CSS
+    <link rel="stylesheet" href="css/main.css" type="text/css"> -->
+    <link href="/css/main.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="alternate" type="application/rss+xml" title="Pass the SALT 2019 RSS" href="/feed.xml">
+
+    <style>
+     .en:lang(en), .fr:lang(fr){
+     font-weight: bold;
+     }
+    </style>
+
+</head>
+
+
+<body id="page-top">
+  <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container" style="background-color:#852D91;">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="/#page-top">Home</a>
+
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="page-scroll" href="/#news">News</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="https://cfp.pass-the-salt.org/">CFP</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/#sponsors">Sponsors</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/code-of-conduct/">Code of Conduct</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/#contact">Contact</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/#about">About</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="https://2018.pass-the-salt.org/">Archives (2018)</a>
+                </li>
+                <!--                <li>
+                    <a href="/blog/">Blog</a>
+                </li>
+
+                
+                
+                  <li>
+                  
+                  <a href="/css/main.css" ></a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/sitemap.xml" ></a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/101.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/102.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/45.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/49.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/50.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/51.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/52.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/53.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/55.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/56.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/57.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/58.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/59.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/60.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/62.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/63.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/65.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/66.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/70.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/71.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/74.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/75.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/76.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/78.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/79.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/80.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/82.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/84.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/85.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/86.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/87.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/91.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/95.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/96.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/98.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/99.html" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/code-of-conduct/" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/schedule/" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                 -->
+
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+  <!--<header id="header" class="intro-header bg-primary text-center" >-->
+
+<section  id="post">
+<div class="container" >
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+<!--                <h2 class="section-heading">Timeline</h2>
+                <hr class="light">
+                <p class="text-faded">
+                <b>What and when ?</b><br><br>-->
+                <p>« <a href="/schedule/">back to schedule</a></p>
+
+<h2 id="time-efficient-assessment-of-open-source-projects-for-red-teamers">Time-efficient assessment of open-source projects for Red Teamers</h2>
+<hr />
+
+<p>It is more and more common to face opensource projects during Red Team engagements. Due to time and efficiency constraints related to such assessments, it is always enjoyable to discover “quick-win” 0day vulnerabilities that will allow progressing in the intrusion and pivoting to critical networks or services. In this talk, we try to describe a methodology that allowed us to quickly discover numerous critical vulnerabilities in a widely-adopted project, GLPI. We will also discuss these findings and the security mechanisms that were implemented and how they were defeated.</p>
+
+<hr />
+<h3 id="speakers">Speaker(s)</h3>
+
+<p><strong>Thomas Chauchefoin (Synacktiv), Julien Szlamowicz (Synacktiv)</strong></p>
+
+<h3 id="bio">Bio</h3>
+<p>Thomas and Julien are two security researchers working at Synacktiv. They are mostly interested in web security and they had the possibility to practice it during several years of penetration testing and red team engagements.</p>
+
+<p>« <a href="/schedule/">back to schedule</a></p>
+
+<!--                </p>
+                <a href="#" class="btn btn-default btn-xl">Get Started!</a> -->
+            </div>
+        </div>
+    </div>
+</section>
+
+  <!-- jQuery -->
+<script src="/js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript
+<script src="js/bootstrap.min.js"></script> -->
+
+<!-- Plugin JavaScript -->
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/jquery.fittext.js"></script>
+<script src="/js/wow.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/creative.js"></script>
+
+<!-- jQuery
+<script src="/vendor/jquery/jquery.min.js"></script> -->
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+<!-- Theme JavaScript -->
+<script src="/js/new-age.min.js"></script>
+
+
+
+</body>
+
+</html>
