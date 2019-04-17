@@ -16,7 +16,7 @@ lang: en
 
 **Talks**
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Low Level digging and Breaking</h3></div>
+<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Low Level digging and breaking</h3></div>
 
 {:.schedule}
 | :---:  | :---   | :---:         |
@@ -27,7 +27,7 @@ lang: en
 | 35min | [cwe_checker: Hunting Binary Code Vulnerabilities Across CPU Architectures](/talks/74.html) | Thomas Barabosch (Fraunhofer FKIE), Nils-Edvin Enkelmann (Fraunhofer FKIE) |
 | 35min | [Unlocking secrets of the proxmark3 RDV4](/talks/49.html) | Christian Herrmann ( Iceman ) (RRG), Kevin Barker ( 0xFFFF ) (RRG) |
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Over the Internets</h3></div>
+<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Security on the Internets</h3></div>
 
 {:.schedule}
 | :---:  | :---   | :---:         |
@@ -35,6 +35,7 @@ lang: en
 | 20min | [Better curl !](/talks/62.html) | Yoann Lamouroux |
 | 35min | [D4 Project - Design and Implementation of an Open Source Distributed and Collaborative Security Monitoring](/talks/50.html) | Alexandre Dulaunoy (CIRCL), Jean-Louis Huynen (CIRCL), Aurelien Thirion (CIRCL) |
 | 20min | [Lookyloo: A complete solution to investigate complex websites - with a decent UI](/talks/78.html) | Quinn Norton, Raphaël Vinot (CIRCL) |
+| 35min | [TLS 1.3: Solving new challenges for next generation firewalls](/talks/84.html) | Nicolas Pamart (Stormshield), Damien Deville (Stormshield), Thomas Malherbe (Stormshield) |
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Let's talk about context</h3></div>
 
@@ -58,7 +59,6 @@ lang: en
 | :---:  | :---   | :---:         |
 | 35min | [JWAT... Attacking JSON Web Tokens](/talks/45.html) | Louis Nyffenegger (PentesterLab) |
 | 20min | [Get your APIs Secured with Otoroshi !](/talks/60.html) | Chris Woodrow (MAIF), Mathieu Ancelin (Serli) |
-| 35min | [TLS 1.3: Solving new challenges for next generation firewalls](/talks/84.html) | Nicolas Pamart (Stormshield), Damien Deville (Stormshield), Thomas Malherbe (Stormshield) |
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Train & Learn for a better Security</h3></div>
 
