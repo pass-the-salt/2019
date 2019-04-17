@@ -16,14 +16,16 @@ lang: en
 
 **Talks**
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Low Level digging</h3></div>
+<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Low Level digging and Breaking</h3></div>
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 35min | [Unlocking secrets of the proxmark3 RDV4](/talks/49.html) | Christian Herrmann ( Iceman ) (RRG), Kevin Barker ( 0xFFFF ) (RRG) |
+| 35min | [𝕂𝕀𝕃𝕃 𝕄𝔻𝟝 demystifying hash collisions](/talks/91.html) | Ange Albertini |
+| 20min | [Dexcalibur - automate your android app reverse](/talks/95.html) | Georges-B. Michel |
 | 35min | [Reversing a Firmware uploader & others NFC stories](/talks/58.html) | Aurélien Pocheville |
 | 35min | [Improving your firmware security analysis process with FACT](/talks/71.html) | Johannes vom Dorp (Fraunhofer FKIE) |
 | 35min | [cwe_checker: Hunting Binary Code Vulnerabilities Across CPU Architectures](/talks/74.html) | Thomas Barabosch (Fraunhofer FKIE), Nils-Edvin Enkelmann (Fraunhofer FKIE) |
+| 35min | [Unlocking secrets of the proxmark3 RDV4](/talks/49.html) | Christian Herrmann ( Iceman ) (RRG), Kevin Barker ( 0xFFFF ) (RRG) |
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Over the Internets</h3></div>
 
@@ -76,12 +78,6 @@ lang: en
 | 20min | [PatrOwl - Orchestrating SecOps with an open-source SOAR platform](/talks/56.html) | Nicolas Mattiocco (GreenLock Advisory) |
 | 20min | [Configurations: Do you prove yours ?](/talks/98.html) | Alexandre Brianceau (Rudder) |
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Breaking things a little bit</h3></div>
-
-{:.schedule}
-| :---:  | :---   | :---:         |
-| 35min | [𝕂𝕀𝕃𝕃 𝕄𝔻𝟝 demystifying hash collisions](/talks/91.html) | Ange Albertini |
-| 20min | [Dexcalibur - automate your android app reverse](/talks/95.html) | Georges-B. Michel |
 
 * * *
 
