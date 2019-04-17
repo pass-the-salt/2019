@@ -74,7 +74,6 @@ lang: en
 | 35min | [What you most likely did not know about sudo…](/talks/70.html) | Peter Czanik (Balabit) |
 | 20min | [Be secret like a ninja with HashiCorp Vault](/talks/79.html) | Mehdi Laruelle (D2SI) |
 | 20min | [Scale Your Auditing Events](/talks/96.html) | Philipp Krenn (Elastic) |
-| 35min | [Ayy pepito](/talks/82.html) | Thibault Koechlin (NBS), Kevin Kadosh (NBS), Manuel Sabban (NBS) |
 | 20min | [PatrOwl - Orchestrating SecOps with an open-source SOAR platform](/talks/56.html) | Nicolas Mattiocco (GreenLock Advisory) |
 | 20min | [Configurations: Do you prove yours ?](/talks/98.html) | Alexandre Brianceau (Rudder) |
 
