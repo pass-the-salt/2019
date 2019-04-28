@@ -120,17 +120,29 @@ lang: en
 
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Workshops Schedule</h2></div>
 
-<br>
+### Monday
 
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
 | 01/07 - 14:15-17:00 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Managing Partner at Alzette Information Security), David Szili (Managing Partner at Alzette Information Security) |
 | 01/07 - 14:15-17:00 | [Configure WebSSO and Access Control with LemonLDAP::NG](/talks/80.html) | Clément Oudot (Worteks) |
+
+### Tuesday
+
+{:.schedule}
+| **Durée** | **Talks** | **Speaker(s)** |
+| :---:  | :---   | :---:         |
 | 02/07 - 09:35-12:00 | [Let's play ColTris - understand and exploit hash collisions](/talks/101.html) | Ange Albertini |
 | 02/07 - 09:35-12:00 | [Introduction to Osquery](/talks/87.html) | David Szili (Managing Partner at Alzette Information Security) |
 | 02/07 - 14:00-17:00 |  [Threat hunting with SELKS and Suricata](/talks/65.html) | Eric Leblond (Stamus Networks), Peter Manev (Stamus Networks) |
 | 02/07 - 14:00-17:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/52.html) | Christian Herrmann ( Iceman ), Kevin Barker ( 0xFFFF ) |
+
+### Wednesday
+
+{:.schedule}
+| **Durée** | **Talks** | **Speaker(s)** |
+| :---:  | :---   | :---:         |
 | 03/07 - 09:35-12:00 | [Threat Hunting with OSSEC](/talks/66.html) | Xavier Mertens |
 | 03/07 - 14:00-17:00 |  [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html) | Peter Czanik (Balabit) |
 | 03/07 - 14:00-17:00 | [Getting started with RUDDER: a devops solution for devsecops](/talks/99.html) | Benoît Peccatte (Rudder) |
