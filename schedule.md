@@ -58,7 +58,7 @@ lang: en
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK: 12:00-14:00 ~~~</div></div>
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Attacking Free Software Projects</h3></div>
+<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Free Software Projects under Stress</h3></div>
 
 {:.schedule}
 | :---:  | :---   | :---:         |
@@ -80,7 +80,7 @@ lang: en
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 17:30-18:00  | Rumps Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Anyone who wants to speak about Security & FLOSS! |
+| 17:30-18:00  | Rumps Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Anyone who wants to speak about Security & FLOSS! &nbsp; |
 
 
 ## Wednesday 3rd of July, 2019
@@ -126,7 +126,7 @@ lang: en
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
-| 01/07 - 14:15-17:15 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Managing Partner at Alzette Information Security), David Szili (Managing Partner at Alzette Information Security) |
+| 01/07 - 14:15-17:15 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Alzette Information Security), David Szili (Alzette Information Security) |
 | 01/07 - 14:15-17:15 | [Getting started with RUDDER: a devops solution for devsecops](/talks/99.html) | Benoît Peccatte (Rudder) |
 
 ### Tuesday
@@ -135,7 +135,7 @@ lang: en
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
 | 02/07 - 09:35-12:00 | [Let's play ColTris - understand and exploit hash collisions](/talks/101.html) | Ange Albertini |
-| 02/07 - 09:35-12:00 | [Introduction to Osquery](/talks/87.html) | David Szili (Managing Partner at Alzette Information Security) |
+| 02/07 - 09:35-12:00 | [Introduction to Osquery](/talks/87.html) | David Szili (Alzette Information Security) |
 | 02/07 - 14:00-17:00 | [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html) | Peter Czanik (Balabit) |
 | 02/07 - 14:00-17:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/52.html) | Christian Herrmann ( Iceman ), Kevin Barker ( 0xFFFF ) |
 
