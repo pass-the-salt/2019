@@ -56,13 +56,7 @@ lang: en
 | 11:00-11:35 | [JWAT... Attacking JSON Web Tokens](/talks/45.html) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Louis Nyffenegger (PentesterLab) |
 | 11:35-11:55 | [Get your APIs Secured with Otoroshi !](/talks/60.html) | Chris Woodrow (MAIF), Mathieu Ancelin (Serli) |
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Lightning Talks</h3></div>
-
-{:.schedule}
-| :---:  | :---   | :---:         |
-| 11:55-12:30  | Rumps Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Anyone who wants to speak about Security & FLOSS! |
-
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK: 12:30-14:00 ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK: 12:00-14:00 ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Attacking Free Software Projects</h3></div>
 
@@ -81,6 +75,13 @@ lang: en
 | 16:00-16:35   | [OSS in the quest for GDPR compliance](/talks/51.html) | Cristina DeLisle (XWiki / Cryptpad), Aaron Macsween (XWiki / Cryptpad) |
 | 16:35-17:10 | [TLS 1.3: Solving new challenges for next generation firewalls](/talks/84.html) | Nicolas Pamart (Stormshield), Damien Deville (Stormshield), Thomas Malherbe (Stormshield) |
 | 17:10-17:30 | [Lookyloo: A complete solution to investigate complex websites - with a decent UI](/talks/78.html) | Quinn Norton, Raphaël Vinot (CIRCL) |
+
+<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Lightning Talks</h3></div>
+
+{:.schedule}
+| :---:  | :---   | :---:         |
+| 17:30-18:00  | Rumps Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Anyone who wants to speak about Security & FLOSS! |
+
 
 ## Wednesday 3rd of July, 2019
 
@@ -125,8 +126,8 @@ lang: en
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
-| 01/07 - 14:15-17:00 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Managing Partner at Alzette Information Security), David Szili (Managing Partner at Alzette Information Security) |
-| 01/07 - 14:15-17:00 | [Configure WebSSO and Access Control with LemonLDAP::NG](/talks/80.html) | Clément Oudot (Worteks) |
+| 01/07 - 14:15-17:15 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Managing Partner at Alzette Information Security), David Szili (Managing Partner at Alzette Information Security) |
+| 01/07 - 14:15-17:15 | [Getting started with RUDDER: a devops solution for devsecops](/talks/99.html) | Benoît Peccatte (Rudder) |
 
 ### Tuesday
 
@@ -144,5 +145,5 @@ lang: en
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
 | 03/07 - 09:35-12:00 | [Threat Hunting with OSSEC](/talks/66.html) | Xavier Mertens |
-| 03/07 - 09:35-12:00 | [Threat hunting with SELKS and Suricata](/talks/65.html) | Eric Leblond (Stamus Networks), Peter Manev (Stamus Networks) |
-| 03/07 - 14:00-17:00 | [Getting started with RUDDER: a devops solution for devsecops](/talks/99.html) | Benoît Peccatte (Rudder) |
+| 03/07 - 09:35-12:00 | [Configure WebSSO and Access Control with LemonLDAP::NG](/talks/80.html) | Clément Oudot (Worteks) |
+| 03/07 - 14:00-17:00 | [Threat hunting with SELKS and Suricata](/talks/65.html) | Eric Leblond (Stamus Networks), Peter Manev (Stamus Networks) |
