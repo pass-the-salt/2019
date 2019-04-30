@@ -114,7 +114,7 @@ lang: en
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 16:00-16:20 | [Better curl !](/talks/62.html) | Yoann Lamouroux |
+| 16:00-16:20 | [Better curl !](/talks/62.html) | Yoann Lamouroux (Dataimpact) |
 | 16:20-16:40 | [PatrOwl - Orchestrating SecOps with an open-source SOAR platform](/talks/56.html) | Nicolas Mattiocco (GreenLock Advisory) |
 
 * * *
