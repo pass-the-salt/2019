@@ -14,9 +14,17 @@ lang: en
 
 **NOTIFICATION: if you land on this page, for the moment, it is a DRAFT / Work In Progres. DO NOT TRUST IT!**
 
+This year, dear attendees, we are happy and proud to propose to you **26 talks** about Security and Free Software (or open format/protocol). 
+
+We also want you to have the opportunity to **learn and practice through 9 workshops** (see their <a href="#workshops">schedule</a> below).  
+
+Enjoy!
+
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Talks Schedule</h2></div>
 
-## Monday 1st of July, 2019
+This year, the conference will be archiectured around **7 sessions** covering a wide spectrum of topics from hacking low level/crypto to security of the devops workflow or offensive research on Free Software projects, among other topics. 
+
+### **Monday 1st of July, 2019**
 
 {:.schedule}
 | :---:  | :---   | :---:         |
@@ -38,7 +46,7 @@ lang: en
 | 16:50-17:25| [cwe_checker: Hunting Binary Code Vulnerabilities Across CPU Architectures](/talks/74.html) | Thomas Barabosch (Fraunhofer FKIE), Nils-Edvin Enkelmann (Fraunhofer FKIE) |
 | 17:25-18:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/49.html) | Christian Herrmann ( Iceman ) (RRG), Kevin Barker ( 0xFFFF ) (RRG) |
 
-## Tuesday 2nd of July, 2019
+### **Tuesday 2nd of July, 2019**
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Train & Learn for Improved Security</h3></div>
 
@@ -83,7 +91,7 @@ lang: en
 | 17:30-18:00  | Rumps Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Anyone who wants to speak about Security & FLOSS! &nbsp; |
 
 
-## Wednesday 3rd of July, 2019
+### **Wednesday 3rd of July, 2019**
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Security at Scale</h3></div>
 
@@ -118,18 +126,21 @@ lang: en
 | 16:20-16:40 | [PatrOwl - Orchestrating SecOps with an open-source SOAR platform](/talks/56.html) | Nicolas Mattiocco (GreenLock Advisory) |
 
 * * *
+<a id="workshops">
 
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Workshops Schedule</h2></div>
 
-### Monday
+The following workshops will give you insights on very different topics like hacking crypto, NFC, SSO or configuration management. But you will also find a track of several workshops explaining how to use the Elastic stack in different ways to security and threat hunting.
+
+### **Monday**
 
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
-| 01/07 - 14:15-17:15 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Alzette Information Security), David Szili (Alzette Information Security) |
+| 01/07 - **14:****15**-17:15 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Alzette Information Security), David Szili (Alzette Information Security) |
 | 01/07 - 14:15-17:15 | [Getting started with RUDDER: a devops solution for devsecops](/talks/99.html) | Benoît Peccatte (Rudder) |
 
-### Tuesday
+### **Tuesday**
 
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
@@ -139,7 +150,7 @@ lang: en
 | 02/07 - 14:00-17:00 | [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html) | Peter Czanik (Balabit) |
 | 02/07 - 14:00-17:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/52.html) | Christian Herrmann ( Iceman ), Kevin Barker ( 0xFFFF ) |
 
-### Wednesday
+### **Wednesday**
 
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
