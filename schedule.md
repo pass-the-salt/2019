@@ -2,7 +2,7 @@
 title: Schedule
 image: /img/speakers/neutral.png
 layout: "post"
-permalink: /schedule-draft/
+permalink: /schedule/
 published: true
 summary: The schedule is finally out and alive! Just check it before registering to the event :)
 lang: en
@@ -12,9 +12,7 @@ lang: en
 
 ---
 
-**NOTIFICATION: if you land on this page, for the moment, it is a DRAFT / Work In Progres. DO NOT TRUST IT!**
-
-This year, dear attendees, we are happy and proud to propose to you **26 talks** about Security and Free Software (or open format/protocol). 
+For this second edition, we are happy to propose to you **26 talks** about Security and Free Software (or open format/protocol). 
 
 We also want you to have the opportunity to **learn and practice through 9 workshops** (see their <a href="#workshops">schedule</a> below).  
 
@@ -22,7 +20,7 @@ Enjoy!
 
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Talks Schedule</h2></div>
 
-This year, the conference will be archiectured around **7 sessions** covering a wide spectrum of topics from hacking low level/crypto to security of the devops workflow or offensive research on Free Software projects, among other topics. 
+The talks schedule is designed around  **7 sessions** covering a wide spectrum of topics from hacking low level/crypto to security of the devops workflow or offensive research on Free Software projects, among others. 
 
 ### **Monday 1st of July, 2019**
 
@@ -130,7 +128,7 @@ This year, the conference will be archiectured around **7 sessions** covering a 
 
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Workshops Schedule</h2></div>
 
-The following workshops will give you insights on very different topics like hacking crypto, NFC, SSO or configuration management. But you will also find a track of several workshops explaining how to use the Elastic stack in different ways to security and threat hunting.
+The following workshops will give you insights on very different topics like hacking crypto, NFC, SSO or configuration management. But you will also find a track of several workshops explaining how to use the Elastic stack for security and threat hunting.
 
 ### **Monday**
 
