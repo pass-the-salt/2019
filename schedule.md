@@ -128,7 +128,7 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Workshops Schedule</h2></div>
 
-The following workshops will give you insights on very different topics like hacking crypto, NFC, SSO or configuration management. But you will also find a track of several workshops explaining how to use the Elastic stack for security and threat hunting.
+The following workshops will give you insights on very different topics such as hacking crypto, NFC, SSO or configuration management. But you will also find several workshops explaining how to use the Elastic stack for security and threat hunting.
 
 ### **Monday**
 
