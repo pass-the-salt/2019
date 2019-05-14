@@ -23,8 +23,8 @@ Registration URL : [https://pretix.eu/passthesalt/2019/](https://pretix.eu/passt
     * **book a seat only if you are sure to come**! 
     * if after registration, it appears you can't finally come to the conference, **please cancel your order**.
 * **Wifi**: Polytech school which hosts Pass the SALT will provide two kinds of wifi. 
-    * A **limited wifi** (ie ~ only HTTP/HTTPS) wifi with shared creds: no action required on your side during registration to be able to access it. 
-    * A **non filtered wifi with individual creds** : if you want this kind of wifi access, check the option during registration. Take care about the fact you will have to give your real name: we will push it and your email to Polytech school which, in return, will send you your creds some time before the conference.
+    * A **limited wifi with shared creds** (~ only HTTP/HTTPS): no action required on your side during registration to be able to access it. 
+    * A **non filtered wifi with individual creds** : if you want this kind of wifi access, check the option during registration. Take care about the fact you will have to give your real name. We will push it and your email to Polytech school which, in return, will send you your creds some time before the conference.
 
 For any question/problem: [tickets (at) pass-the-salt.org](mailto:tickets (at) pass-the-salt.org)
 
