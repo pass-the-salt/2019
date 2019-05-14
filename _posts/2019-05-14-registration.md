@@ -8,7 +8,7 @@ summary: The registration is open. Just book and come :)
 lang: en
 ---
 
-# Registration to Pass the SALT 2019 is open!
+# Registration to Pass the SALT 2019
 
 ---
 
