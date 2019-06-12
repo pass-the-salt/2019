@@ -92,7 +92,7 @@ ul {
       text-transform: uppercase;
       letter-spacing: 2px;
       font-size: 11px;
-      color: #FFFFFF;
+      color: #222222;
       &:focus {
         color: #222222;
       }
@@ -119,15 +119,15 @@ ul {
     background-color: transparent;
     border-color: transparent;
     .navbar-header .navbar-brand {
-      color: rgba(255, 255, 255, 0.7);
+      color: orange;
       &:hover, &:focus {
         color: white;
       }
     }
     .nav > li > a {
-      color: rgba(255, 255, 255, 0.7);
+      color: orange;
       &:focus {
-        color: rgba(255, 255, 255, 0.7);
+        color: orange;
       }
       &:hover, &:focus:hover {
         color: white;
