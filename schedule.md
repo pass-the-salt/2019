@@ -154,5 +154,5 @@ The following workshops will give you insights on very different topics such as 
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
 | 03/07 09:35-12:00 | [Threat Hunting with OSSEC](/talks/66.html) | Xavier Mertens |
-| 03/07 09:35-12:00 | [Configure WebSSO and Access Control with LemonLDAP::NG](/talks/80.html) | Clément Oudot (Worteks) |
+| 03/07 09:35-12:00 | [Configure WebSSO and Access Control with LemonLDAP::NG](/talks/80.html), [(repo)](https://github.com/Worteks/pts2019-llng-workshop) | Clément Oudot (Worteks) |
 | 03/07 14:00-17:00 | [Threat hunting with SELKS and Suricata](/talks/65.html) | Eric Leblond (Stamus Networks), Peter Manev (Stamus Networks) |
