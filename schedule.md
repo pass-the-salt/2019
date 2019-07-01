@@ -32,9 +32,9 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 14:15-14:50 | [𝕂𝕀𝕃𝕃 𝕄𝔻𝟝 demystifying hash collisions](/talks/91.html) | Ange Albertini &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+| 14:15-14:50 | [𝕂𝕀𝕃𝕃 𝕄𝔻𝟝 demystifying hash collisions](/talks/91.html), [(slides)](/files/slides/01-KILL_MD5.pdf) | Ange Albertini &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | 14:50-15:10 | [Dexcalibur - automate your android app reverse](/talks/95.html) | Georges-B. Michel |
-| 15:10-15:45 | [Reversing a Firmware uploader & others NFC stories &nbsp; &nbsp; &nbsp; ](/talks/58.html) | Aurélien Pocheville &nbsp; &nbsp; &nbsp; |
+| 15:10-15:45 | [Reversing a Firmware uploader & others NFC stories](/talks/58.html), [(slides)](/files/slides/03-Reversing_a_Firmware_uploader_others_NFC_stories.pdf) | Slurdge  &nbsp; &nbsp; &nbsp; |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ AFTERNOON PAUSE: 15:45-16:15 ~~~</div></div>
 
