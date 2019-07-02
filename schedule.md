@@ -145,7 +145,7 @@ The following workshops will give you insights on very different topics such as 
 | :---:  | :---   | :---:         |
 | 02/07 09:35-12:00 | [Let's play ColTris - understand and exploit hash collisions](/talks/101.html) | Ange Albertini |
 | 02/07 09:35-12:00 | [Introduction to Osquery](/talks/87.html) | David Szili (Alzette Information Security) |
-| 02/07 14:00-17:00 | [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html) | Peter Czanik (Balabit) |
+| 02/07 14:00-17:00 | [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html), [(repo)](/files/slides/WS-CzP_sng_workshop_v6.pdf) | Peter Czanik (Balabit) |
 | 02/07 14:00-17:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/52.html) | Christian Herrmann ( Iceman ), Kevin Barker ( 0xFFFF ) |
 
 ### **Wednesday**
