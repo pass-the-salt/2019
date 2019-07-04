@@ -72,7 +72,7 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 {:.schedule}
 | :---:  | :---   | :---:         |
 | 14:00-14:35 | [Time-efficient assessment of open-source projects for Red Teamers](/talks/75.html), [(slides)](/files/slides/11-Time_efficient_ assessment_of_ open-source_projects_for_Red_Teamers.pdf) | Thomas Chauchefoin (Synacktiv), Julien Szlamowicz (Synacktiv) |
-| 14:35-15:10 | [Hacking Jenkins!](/talks/59.html), [(slides)](/files/slides/12-Orange_Tsai - Hacking_Jenkins_for_public.pdf) | Orange Tsai (DEVCORE) |
+| 14:35-15:10 | [Hacking Jenkins!](/talks/59.html), [(slides)](/files/slides/12-Hacking_Jenkins.pdf) | Orange Tsai (DEVCORE) |
 | 15:10-15:30 | [VLC and security](/talks/53.html), [(slides)](/files/slides/13-VLC_Security.pdf) | Jean-Baptiste Kempf |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ AFTERNOON PAUSE: 15:30-16:00 ~~~</div></div>
@@ -82,7 +82,7 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 {:.schedule}
 | :---:  | :---   | :---:         |
 | 16:00-16:35   | [OSS in the quest for GDPR compliance](/talks/51.html), [(slides)](/files/slides/14-OSS-in-the-quest-for-GDPR-compliance.pdf) | Cristina DeLisle (XWiki / Cryptpad), Aaron Macsween (XWiki / Cryptpad) |
-| 16:35-17:10 | [TLS 1.3: Solving new challenges for next generation firewalls](/talks/84.html) | Nicolas Pamart (Stormshield), Damien Deville (Stormshield), Thomas Malherbe (Stormshield) |
+| 16:35-17:10 | [TLS 1.3: Solving new challenges for next generation firewalls](/talks/84.html), [(slides)](/files/slides/15-tls13.pdf) | Nicolas Pamart (Stormshield), Damien Deville (Stormshield), Thomas Malherbe (Stormshield) |
 | 17:10-17:30 | [Lookyloo: A complete solution to investigate complex websites - with a decent UI](/talks/78.html), [(slides)](/files/slides/16-Lookyloo.pdf) | Quinn Norton, Raphaël Vinot (CIRCL) |
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Lightning Talks</h3></div>
