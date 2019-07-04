@@ -45,7 +45,7 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 | :---:  | :---   | :---:         |
 | 16:15-16:50 | [Improving your firmware security analysis process with FACT](/talks/71.html), [(slides)](/files/slides/04-FACT.pdf) | Johannes vom Dorp (Fraunhofer FKIE) |
 | 16:50-17:25| [cwe_checker: Hunting Binary Code Vulnerabilities Across CPU Architectures](/talks/74.html), [(slides)](/files/slides/05-cwe_checker.pdf) | Thomas Barabosch (Fraunhofer FKIE), Nils-Edvin Enkelmann (Fraunhofer FKIE) |
-| 17:25-18:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/49.html) | Christian Herrmann ( Iceman ) (RRG), Kevin Barker ( 0xFFFF ) (RRG) |
+| 17:25-18:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/49.html), [(slides)](/files/slides/06-proxmark.pdf) | Christian Herrmann ( Iceman ) (RRG), Kevin Barker ( 0xFFFF ) (RRG) |
 
 ### **Tuesday 2nd of July, 2019**
 
@@ -54,7 +54,7 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 {:.schedule}
 | :---:  | :---   | :---:         |
 | 09:35-09:55 | [MI-LXC: a first step towards a free CyberRange ?](/talks/57.html), [(slides)](/files/slides/07-MI_LXC.pdf) | Francois Lesueur (INSA Lyon) |
-| 09:55-10:30 | [Phishing Awareness: feedback on a bank's strategy](/talks/63.html) | Thibaud Binetruy (CERT Société Générale) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| 09:55-10:30 | [Phishing Awareness: feedback on a bank's strategy](/talks/63.html), [(slides)](/files/slides/08-CERT_SG-Awareness_Strategy.pdf) | Thibaud Binetruy (CERT Société Générale) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MORNING PAUSE: 10:30-11:00 ~~~</div></div>
 
@@ -98,16 +98,16 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 09:35-09:55 | [Configurations: Do you prove yours ?](/talks/98.html), [(slides)](/files/slides/17-Configurations_do_you_prove_yours) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Alexandre Brianceau (Rudder) |
+| 09:35-09:55 | [Configurations: Do you prove yours ?](/talks/98.html), [(slides)](/files/slides/17-Configurations_do_you_prove_yours.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Alexandre Brianceau (Rudder) |
 | 09:55-10:30 | [What you most likely did not know about sudo…](/talks/70.html), [(slides)](/files/slides/18-sudo.pdf)  | Peter Czanik (Balabit) |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MORNING PAUSE: 10:30-11:00 ~~~</div></div>
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 11:00-11:20 | [Be secret like a ninja with HashiCorp Vault](/talks/79.html) | Mehdi Laruelle (D2SI) |
-| 11:20-11:40 | [Scale Your Auditing Events](/talks/96.html) | Philipp Krenn (Elastic) |
-| 11:40-12:00 | [Programming research: a missed opportunity for secure and libre software?](/talks/85.html) | Gabriel Scherer (INRIA, France) |
+| 11:00-11:20 | [Be secret like a ninja with HashiCorp Vault](/talks/79.html), [(slides)](/files/slides/19-Vault.pdf) | Mehdi Laruelle (D2SI) |
+| 11:20-11:40 | [Scale Your Auditing Events](/talks/96.html), [(slides)](/files/slides/20-auditing-events.pdf) | Philipp Krenn (Elastic) |
+| 11:40-12:00 | [Programming research: a missed opportunity for secure and libre software?](/talks/85.html), [(slides)](/files/slides/21-scherer.pdf) | Gabriel Scherer (INRIA, France) |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK: 12:00-14:00 ~~~</div></div>
 
@@ -115,16 +115,16 @@ The talks schedule is designed around  **7 sessions** covering a wide spectrum o
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 14:00-14:35 | [D4 Project - Design and Implementation of an Open Source Distributed and Collaborative Security Monitoring](/talks/50.html) | Alexandre Dulaunoy (CIRCL), Jean-Louis Huynen (CIRCL), Aurelien Thirion (CIRCL) |
-| 14:35-15:10 | [No IT security without Free Software](/talks/102.html) | Max Mehl (FSFE) |
-| 15:10-15:30 | [Managing a growing fleet of WiFi routers combining OpenWRT, WireGuard, Salt and Zabbix](/talks/55.html) | Kenan Ibrović |
+| 14:00-14:35 | [D4 Project - Design and Implementation of an Open Source Distributed and Collaborative Security Monitoring](/talks/50.html), [(slides)](/files/slides/22-D4.pdf) | Alexandre Dulaunoy (CIRCL), Jean-Louis Huynen (CIRCL), Aurelien Thirion (CIRCL) |
+| 14:35-15:10 | [No IT security without Free Software](/talks/102.html), [(slides)](/files/slides/23-No-IT-Security-Without-FLOSS.pdf) | Max Mehl (FSFE) |
+| 15:10-15:30 | [Managing a growing fleet of WiFi routers combining OpenWRT, WireGuard, Salt and Zabbix](/talks/55.html), [(slides)](/files/slides/	24-managing-fleet-of-routers.pdf) | Kenan Ibrović |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ AFTERNOON PAUSE: 15:30-16:00 ~~~</div></div>
 
 {:.schedule}
 | :---:  | :---   | :---:         |
-| 16:00-16:20 | [Better curl !](/talks/62.html) | Yoann Lamouroux (Dataimpact) |
-| 16:20-16:40 | [PatrOwl - Orchestrating SecOps with an open-source SOAR platform](/talks/56.html) | Nicolas Mattiocco (GreenLock Advisory) |
+| 16:00-16:20 | [Better curl !](/talks/62.html), [(slides)](/files/slides/25-BetterCurl.pdf) | Yoann Lamouroux (Dataimpact) |
+| 16:20-16:40 | [PatrOwl - Orchestrating SecOps with an open-source SOAR platform](/talks/56.html), [(slides)](/files/slides/26-PatrOwl.pdf) | Nicolas Mattiocco (GreenLock Advisory) |
 
 * * *
 <a id="workshops">
@@ -138,7 +138,7 @@ The following workshops will give you insights on very different topics such as 
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
-| 01/07 14:15-17:15 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html) | Eva Szilagyi (Alzette Information Security), David Szili (Alzette Information Security) |
+| 01/07 14:15-17:15 | [Elastic Stack for Security Monitoring in a Nutshell](/talks/86.html), [(slides)](/files/slides/WORKSHOP-Elastic_Stack_for_Security_Monitoring_in_a_Nutshell.pdf) | Eva Szilagyi (Alzette Information Security), David Szili (Alzette Information Security) |
 | 01/07 14:15-17:15 | [Getting started with RUDDER: a devops solution for devsecops](/talks/99.html) | Benoît Peccatte (Rudder) |
 
 ### **Tuesday**
@@ -146,9 +146,9 @@ The following workshops will give you insights on very different topics such as 
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
-| 02/07 09:35-12:00 | [Let's play ColTris - understand and exploit hash collisions](/talks/101.html) | Ange Albertini |
-| 02/07 09:35-12:00 | [Introduction to Osquery](/talks/87.html) | David Szili (Alzette Information Security) |
-| 02/07 14:00-17:00 | [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html), [(repo)](/files/slides/WS-CzP_sng_workshop_v6.pdf) | Peter Czanik (Balabit) |
+| 02/07 09:35-12:00 | [Let's play CollTris - understand and exploit hash collisions](/talks/101.html), [(slides)](/files/slides/WORKSHOP-CollTris.pdf) | Ange Albertini |
+| 02/07 09:35-12:00 | [Introduction to Osquery](/talks/87.html), [(slides)](/files/slides/WORKSHOP-Osquery.pdf) | David Szili (Alzette Information Security) |
+| 02/07 14:00-17:00 | [Syslog-ng: getting started, parsing messages, storing in Elasticsearch](/talks/76.html), [(slides)](/files/slides/WORKSHOP-SyslogNG.pdf) | Peter Czanik (Balabit) |
 | 02/07 14:00-17:00 | [Unlocking secrets of the proxmark3 RDV4](/talks/52.html) | Christian Herrmann ( Iceman ), Kevin Barker ( 0xFFFF ) |
 
 ### **Wednesday**
@@ -156,6 +156,6 @@ The following workshops will give you insights on very different topics such as 
 {:.schedule}
 | **Durée** | **Talks** | **Speaker(s)** |
 | :---:  | :---   | :---:         |
-| 03/07 09:35-12:00 | [Threat Hunting with OSSEC](/talks/66.html) | Xavier Mertens |
+| 03/07 09:35-12:00 | [Threat Hunting with OSSEC](/talks/66.html), [(slides)](/files/slides/WORKSHOP-OSSEC-2019.pdf) | Xavier Mertens |
 | 03/07 09:35-12:00 | [Configure WebSSO and Access Control with LemonLDAP::NG](/talks/80.html), [(repo)](https://github.com/Worteks/pts2019-llng-workshop) | Clément Oudot (Worteks) |
 | 03/07 14:00-17:00 | [Threat hunting with SELKS and Suricata](/talks/65.html) | Eric Leblond (Stamus Networks), Peter Manev (Stamus Networks) |
