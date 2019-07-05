@@ -15,6 +15,8 @@ lang: en
 
 **All the slides are there:** [https://2019.pass-the-salt.org/files/slides/](https://2019.pass-the-salt.org/files/slides/)
 
+**And all the videos are also published:** [https://passthesalt.ubicast.tv/channels/#2019-lille](https://passthesalt.ubicast.tv/channels/#2019-lille)
+
 For this second edition, we are happy to propose to you **26 talks** about Security and Free Software (or open format/protocol). 
 
 We also want you to have the opportunity to **learn and practice through 9 workshops** (see their <a href="#workshops">schedule</a> below).  
